@@ -1,6 +1,6 @@
 {
   "name": "potluck_lib",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "library for potluck application",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,5 +8,8 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "release": "tsc -b && yarn publish"
   }
 }
