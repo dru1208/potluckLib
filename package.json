@@ -1,0 +1,12 @@
+{
+  "name": "potluckLib",
+  "version": "1.0.0",
+  "description": "library for potluck application",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Andrew Hsieh",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
