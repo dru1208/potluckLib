@@ -1,5 +1,5 @@
 const testFunction: () => string = () => {
-  return "test function"
+  return "test function!"
 }
 
 export { testFunction }
