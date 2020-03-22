@@ -1,5 +1,5 @@
-const testFunction = () => {
-  console.log("Testing the typescript export")
+const testFunction: () => string = () => {
+  return "test function"
 }
 
 export { testFunction }
