@@ -1,5 +1,5 @@
 {
-  "name": "potluckLib",
+  "name": "potluck_lib",
   "version": "1.0.0",
   "description": "library for potluck application",
   "main": "dist/index.js",
