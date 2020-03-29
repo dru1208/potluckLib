@@ -1,6 +1,6 @@
 import Person from "./person"
 import Attendance from "../event/attendance"
-import Dish from "../menu/dish"
+import { Dish } from "../menu/dishes"
 
 class Guest implements Person {
   name: string;
